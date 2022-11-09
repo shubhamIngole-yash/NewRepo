@@ -1,0 +1,11 @@
+class new
+{
+   public void Newprocess()
+{
+
+  Sysou("Newprocess...")
+
+}
+
+
+}
